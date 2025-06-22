@@ -27,6 +27,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 
 // Experience Section Logo's
 import MetalSmith from './assets/company_logo/MetalSmith.png';
+import chatpdf from './assets/company_logo/chatpdf.png';
 
 // Education Section Logo's
 import vitLogo from './assets/education_logo/vit.png';
@@ -173,6 +174,7 @@ export const SkillsInfo = [
     {
       id: 2,
       title: "Chat PDF",
+      image: chatpdf,
       description:
         "Developed an end-to-end AI application enabling intelligent conversation with multiple PDFs. Utilized FAISS for vector-based semantic search and integrated Google’s Gemini Pro via LangChain to deliver contextually accurate answers from uploaded documents.",
       
