@@ -174,9 +174,9 @@ export const SkillsInfo = [
       id: 2,
       title: "Chat PDF",
       description:
-        "Built Chat PDF, an intelligent tool using Python, LangChain, NLP, and machine learning to interact with PDF documents—supporting text extraction, summarization, and question answering across 1,000+ files. Achieved 40% improvement in document comprehension and optimized query response time to under 1.5 seconds for a seamless user experience.",
+        "Developed an end-to-end AI application enabling intelligent conversation with multiple PDFs. Utilized FAISS for vector-based semantic search and integrated Google’s Gemini Pro via LangChain to deliver contextually accurate answers from uploaded documents.",
       
-      tags: ["Python", "LangChain", "NLP", "Machine Learning", "PyPDF2"],
+      tags: ["Python", "LangChain", "Google Gemini Pro", "Streamlit", "PyPDF2", "FAISS"],
       github: "https://github.com/layebairshad/Chat-PDF",
       webapp: "https://layebairshad-chat-pdf-app-qrx08p.streamlit.app/",
     },
