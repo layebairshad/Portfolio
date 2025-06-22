@@ -178,6 +178,7 @@ export const SkillsInfo = [
       
       tags: ["Python", "LangChain", "NLP", "Machine Learning", "PyPDF2"],
       github: "https://github.com/layebairshad/Chat-PDF",
+      webapp: "https://layebairshad-chat-pdf-app-qrx08p.streamlit.app/",
     },
     {
       id: 3,
