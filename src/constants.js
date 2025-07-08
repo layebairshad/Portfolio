@@ -28,6 +28,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 // Experience Section Logo's
 import MetalSmith from './assets/company_logo/MetalSmith.png';
 import chatpdf from './assets/company_logo/chatpdf.png';
+import AeroServe from './assets/work_logo/ams.png';
 
 // Education Section Logo's
 import vitLogo from './assets/education_logo/vit.png';
@@ -146,6 +147,7 @@ export const SkillsInfo = [
     {
       id: 0,
       title: "AeroServe Airline Management System",
+       image: AeroServe,
       description:
         "Developed a desktop-based airline management system using Core Java, Swing, MySQL, and NetBeans, enabling flight booking, cancellation, and customer data handling. Implemented secure login, dynamic CRUD operations, and automated ticketing, with a well-structured relational database for efficient backend integration.",
       tags: ["Java", "Swing", "MySQL", "NetBeans"],
