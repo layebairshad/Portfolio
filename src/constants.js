@@ -39,8 +39,6 @@ import AeroServe from './assets/work_logo/github_det.png';
 import Metalsmith from './assets/work_logo/metalsmith.png';
 
 import ChatPDF from './assets/work_logo/npm.png';
-import BreastCancerPrediction from './assets/work_logo/web_dig.png';
-
 
 
 export const SkillsInfo = [
