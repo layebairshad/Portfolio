@@ -182,20 +182,4 @@ export const SkillsInfo = [
       github: "https://github.com/layebairshad/Chat-PDF",
       webapp: "https://layebairshad-chat-pdf-app-qrx08p.streamlit.app/",
     },
-    {
-      id: 3,
-      title: "Breast Cancer Prediction",
-      description:
-        "Developed a Breast Cancer Prediction system using Logistic Regression with 90.35% accuracy on 10,000+ medical records. Leveraged ROC curve analysis (AUC: 0.89) for performance evaluation and deployed the model with Flask and Pickle for real-time predictions, serving 1,000+ users with sub-2 second response time.",
-      tags: [
-        "Python",
-        "Scikit-learn",
-        "Pandas",
-        "NumPy",
-        "Flask",
-        "Pickle",
-        "Matplotlib",
-      ],
-      github: "https://github.com/layebairshad/Breast-Cancer-Prediction",
-    },
   ];  
