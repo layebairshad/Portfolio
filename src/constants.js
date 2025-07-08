@@ -35,8 +35,9 @@ import dpsXLogo from './assets/education_logo/dps.png';
 import dpsXIILogo from './assets/education_logo/dps.png';
 
 // Project Section Logo's
-import AeroServe from './assets/work_logo/github_det.png';
+import AeroServe from './assets/work_logo/ams.png';
 import Metalsmith from './assets/work_logo/metalsmith.png';
+
 
 import ChatPDF from './assets/work_logo/npm.png';
 
